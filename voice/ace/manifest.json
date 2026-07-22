@@ -1,0 +1,662 @@
+{
+  "narrative_intro": {
+    "file": "narrative_intro.mp3",
+    "sizeBytes": 300556,
+    "durationMs": 18785
+  },
+  "tutorial_power": {
+    "file": "tutorial_power.mp3",
+    "sizeBytes": 164719,
+    "durationMs": 10295
+  },
+  "tutorial_argus": {
+    "file": "tutorial_argus.mp3",
+    "sizeBytes": 47273,
+    "durationMs": 2955
+  },
+  "tutorial_argus_explain": {
+    "file": "tutorial_argus_explain.mp3",
+    "sizeBytes": 74022,
+    "durationMs": 4626
+  },
+  "tutorial_movement": {
+    "file": "tutorial_movement.mp3",
+    "sizeBytes": 272553,
+    "durationMs": 17035
+  },
+  "tutorial_repair": {
+    "file": "tutorial_repair.mp3",
+    "sizeBytes": 166391,
+    "durationMs": 10399
+  },
+  "tutorial_hostile": {
+    "file": "tutorial_hostile.mp3",
+    "sizeBytes": 316021,
+    "durationMs": 19751
+  },
+  "tutorial_refineries": {
+    "file": "tutorial_refineries.mp3",
+    "sizeBytes": 417167,
+    "durationMs": 26073
+  },
+  "tutorial_gravwell": {
+    "file": "tutorial_gravwell.mp3",
+    "sizeBytes": 250819,
+    "durationMs": 15676
+  },
+  "argus_network": {
+    "file": "argus_network.mp3",
+    "sizeBytes": 86979,
+    "durationMs": 5436
+  },
+  "status_report": {
+    "file": "status_report.mp3",
+    "sizeBytes": 70261,
+    "durationMs": 4391
+  },
+  "behavior_recorded": {
+    "file": "behavior_recorded.mp3",
+    "sizeBytes": 62319,
+    "durationMs": 3895
+  },
+  "build_refineries": {
+    "file": "build_refineries.mp3",
+    "sizeBytes": 103279,
+    "durationMs": 6455
+  },
+  "repair_components": {
+    "file": "repair_components.mp3",
+    "sizeBytes": 93248,
+    "durationMs": 5828
+  },
+  "vented_them": {
+    "file": "vented_them.mp3",
+    "sizeBytes": 82799,
+    "durationMs": 5175
+  },
+  "lack_good_judgment": {
+    "file": "lack_good_judgment.mp3",
+    "sizeBytes": 81546,
+    "durationMs": 5097
+  },
+  "shield_collapse": {
+    "file": "shield_collapse.mp3",
+    "sizeBytes": 48527,
+    "durationMs": 3033
+  },
+  "engines_offline": {
+    "file": "engines_offline.mp3",
+    "sizeBytes": 100772,
+    "durationMs": 6298
+  },
+  "sensors_offline": {
+    "file": "sensors_offline.mp3",
+    "sizeBytes": 117490,
+    "durationMs": 7343
+  },
+  "hostile_contact": {
+    "file": "hostile_contact.mp3",
+    "sizeBytes": 61066,
+    "durationMs": 3817
+  },
+  "hull_critical": {
+    "file": "hull_critical.mp3",
+    "sizeBytes": 65245,
+    "durationMs": 4078
+  },
+  "below_tolerances": {
+    "file": "below_tolerances.mp3",
+    "sizeBytes": 77784,
+    "durationMs": 4862
+  },
+  "m1-ambush-alert": {
+    "file": "m1-ambush-alert.mp3",
+    "sizeBytes": 207351,
+    "durationMs": 12959
+  },
+  "m1-more-incoming-1": {
+    "file": "m1-more-incoming-1.mp3",
+    "sizeBytes": 69007,
+    "durationMs": 4313
+  },
+  "m1-more-incoming-2": {
+    "file": "m1-more-incoming-2.mp3",
+    "sizeBytes": 70261,
+    "durationMs": 4391
+  },
+  "m1-economy-briefing": {
+    "file": "m1-economy-briefing.mp3",
+    "sizeBytes": 56050,
+    "durationMs": 3503
+  },
+  "waystation-story": {
+    "file": "waystation-story.mp3",
+    "sizeBytes": 221144,
+    "durationMs": 13822
+  },
+  "m2-quota-foreshadow": {
+    "file": "m2-quota-foreshadow.mp3",
+    "sizeBytes": 88233,
+    "durationMs": 5515
+  },
+  "m2_briefing_open_1": {
+    "file": "m2_briefing_open_1.mp3",
+    "sizeBytes": 99518,
+    "durationMs": 6220
+  },
+  "m2_briefing_open_2": {
+    "file": "m2_briefing_open_2.mp3",
+    "sizeBytes": 127939,
+    "durationMs": 7996
+  },
+  "m2_briefing_close": {
+    "file": "m2_briefing_close.mp3",
+    "sizeBytes": 90741,
+    "durationMs": 5671
+  },
+  "m3_briefing_open_1": {
+    "file": "m3_briefing_open_1.mp3",
+    "sizeBytes": 95756,
+    "durationMs": 5985
+  },
+  "m3_briefing_open_2": {
+    "file": "m3_briefing_open_2.mp3",
+    "sizeBytes": 126685,
+    "durationMs": 7918
+  },
+  "victory_base": {
+    "file": "victory_base.mp3",
+    "sizeBytes": 641193,
+    "durationMs": 40075
+  },
+  "victory_gravwell": {
+    "file": "victory_gravwell.mp3",
+    "sizeBytes": 836798,
+    "durationMs": 52300
+  },
+  "shield_down_fore": {
+    "file": "shield_down_fore.mp3",
+    "sizeBytes": 21359,
+    "durationMs": 1335
+  },
+  "shield_down_aft": {
+    "file": "shield_down_aft.mp3",
+    "sizeBytes": 25539,
+    "durationMs": 1596
+  },
+  "shield_down_port": {
+    "file": "shield_down_port.mp3",
+    "sizeBytes": 29301,
+    "durationMs": 1831
+  },
+  "shield_down_starboard": {
+    "file": "shield_down_starboard.mp3",
+    "sizeBytes": 26793,
+    "durationMs": 1675
+  },
+  "shields_offline": {
+    "file": "shields_offline.mp3",
+    "sizeBytes": 148419,
+    "durationMs": 9276
+  },
+  "truth1_theyre_on_us": {
+    "file": "truth1_theyre_on_us.mp3",
+    "sizeBytes": 81546,
+    "durationMs": 5097
+  },
+  "truth1_reveal": {
+    "file": "truth1_reveal.mp3",
+    "sizeBytes": 44765,
+    "durationMs": 2798
+  },
+  "truth2_breadcrumb_4": {
+    "file": "truth2_breadcrumb_4.mp3",
+    "sizeBytes": 89487,
+    "durationMs": 5593
+  },
+  "truth2_breadcrumb_5": {
+    "file": "truth2_breadcrumb_5.mp3",
+    "sizeBytes": 125431,
+    "durationMs": 7839
+  },
+  "truth2_part1": {
+    "file": "truth2_part1.mp3",
+    "sizeBytes": 229085,
+    "durationMs": 14318
+  },
+  "truth2_part2": {
+    "file": "truth2_part2.mp3",
+    "sizeBytes": 270045,
+    "durationMs": 16878
+  },
+  "truth2_part3": {
+    "file": "truth2_part3.mp3",
+    "sizeBytes": 367012,
+    "durationMs": 22938
+  },
+  "truth2_part4": {
+    "file": "truth2_part4.mp3",
+    "sizeBytes": 232847,
+    "durationMs": 14553
+  },
+  "graveyard_breadcrumb_1": {
+    "file": "graveyard_breadcrumb_1.mp3",
+    "sizeBytes": 106205,
+    "durationMs": 6638
+  },
+  "graveyard_breadcrumb_2": {
+    "file": "graveyard_breadcrumb_2.mp3",
+    "sizeBytes": 139224,
+    "durationMs": 8702
+  },
+  "graveyard_breadcrumb_3": {
+    "file": "graveyard_breadcrumb_3.mp3",
+    "sizeBytes": 66499,
+    "durationMs": 4156
+  },
+  "nuke_telegraph": {
+    "file": "nuke_telegraph.mp3",
+    "sizeBytes": 63991,
+    "durationMs": 3999
+  },
+  "refinery_hunt_telegraph": {
+    "file": "refinery_hunt_telegraph.mp3",
+    "sizeBytes": 74022,
+    "durationMs": 4626
+  },
+  "tutorial_awaiting_orders": {
+    "file": "tutorial_awaiting_orders.mp3",
+    "sizeBytes": 63991,
+    "durationMs": 3999
+  },
+  "tutorial_plot_maneuver": {
+    "file": "tutorial_plot_maneuver.mp3",
+    "sizeBytes": 29301,
+    "durationMs": 1831
+  },
+  "ambient_squad_selection": {
+    "file": "ambient_squad_selection.mp3",
+    "sizeBytes": 132955,
+    "durationMs": 8310
+  },
+  "ambient_travel_mode": {
+    "file": "ambient_travel_mode.mp3",
+    "sizeBytes": 65245,
+    "durationMs": 4078
+  },
+  "ambient_control_groups": {
+    "file": "ambient_control_groups.mp3",
+    "sizeBytes": 158450,
+    "durationMs": 9903
+  },
+  "ambient_attack_move": {
+    "file": "ambient_attack_move.mp3",
+    "sizeBytes": 100772,
+    "durationMs": 6298
+  },
+  "ambient_squad_stances": {
+    "file": "ambient_squad_stances.mp3",
+    "sizeBytes": 134208,
+    "durationMs": 8388
+  },
+  "ambient_guard_order": {
+    "file": "ambient_guard_order.mp3",
+    "sizeBytes": 114982,
+    "durationMs": 7186
+  },
+  "ambient_guard_order_telegraph": {
+    "file": "ambient_guard_order_telegraph.mp3",
+    "sizeBytes": 34316,
+    "durationMs": 2145
+  },
+  "ambient_rmb_grammar": {
+    "file": "ambient_rmb_grammar.mp3",
+    "sizeBytes": 188125,
+    "durationMs": 11758
+  },
+  "ambient_hyper_jump": {
+    "file": "ambient_hyper_jump.mp3",
+    "sizeBytes": 196902,
+    "durationMs": 12306
+  },
+  "variety_interceptor_contact": {
+    "file": "variety_interceptor_contact.mp3",
+    "sizeBytes": 71515,
+    "durationMs": 4470
+  },
+  "variety_interceptor_unlock": {
+    "file": "variety_interceptor_unlock.mp3",
+    "sizeBytes": 85725,
+    "durationMs": 5358
+  },
+  "variety_pylon_contact": {
+    "file": "variety_pylon_contact.mp3",
+    "sizeBytes": 86979,
+    "durationMs": 5436
+  },
+  "variety_pylon_unlock": {
+    "file": "variety_pylon_unlock.mp3",
+    "sizeBytes": 81546,
+    "durationMs": 5097
+  },
+  "variety_bomber_contact": {
+    "file": "variety_bomber_contact.mp3",
+    "sizeBytes": 108713,
+    "durationMs": 6795
+  },
+  "variety_bomber_unlock": {
+    "file": "variety_bomber_unlock.mp3",
+    "sizeBytes": 86979,
+    "durationMs": 5436
+  },
+  "variety_platform_contact": {
+    "file": "variety_platform_contact.mp3",
+    "sizeBytes": 57304,
+    "durationMs": 3582
+  },
+  "variety_platform_unlock": {
+    "file": "variety_platform_unlock.mp3",
+    "sizeBytes": 79038,
+    "durationMs": 4940
+  },
+  "variety_ecm_contact": {
+    "file": "variety_ecm_contact.mp3",
+    "sizeBytes": 86979,
+    "durationMs": 5436
+  },
+  "variety_ecm_unlock": {
+    "file": "variety_ecm_unlock.mp3",
+    "sizeBytes": 38078,
+    "durationMs": 2380
+  },
+  "variety_hunterkiller_contact": {
+    "file": "variety_hunterkiller_contact.mp3",
+    "sizeBytes": 53542,
+    "durationMs": 3346
+  },
+  "variety_hunterkiller_unlock": {
+    "file": "variety_hunterkiller_unlock.mp3",
+    "sizeBytes": 44765,
+    "durationMs": 2798
+  },
+  "finale_coordinates_found": {
+    "file": "finale_coordinates_found.mp3",
+    "sizeBytes": 130447,
+    "durationMs": 8153
+  },
+  "finale_arrival_quiet": {
+    "file": "finale_arrival_quiet.mp3",
+    "sizeBytes": 142986,
+    "durationMs": 8937
+  },
+  "finale_hunter_contact": {
+    "file": "finale_hunter_contact.mp3",
+    "sizeBytes": 122506,
+    "durationMs": 7657
+  },
+  "finale_hunter_briefing_mirror": {
+    "file": "finale_hunter_briefing_mirror.mp3",
+    "sizeBytes": 111221,
+    "durationMs": 6951
+  },
+  "finale_hunter_posture": {
+    "file": "finale_hunter_posture.mp3",
+    "sizeBytes": 107459,
+    "durationMs": 6716
+  },
+  "finale_intercept_preamble": {
+    "file": "finale_intercept_preamble.mp3",
+    "sizeBytes": 173915,
+    "durationMs": 10870
+  },
+  "finale_framing_aggression": {
+    "file": "finale_framing_aggression.mp3",
+    "sizeBytes": 119998,
+    "durationMs": 7500
+  },
+  "finale_framing_economy": {
+    "file": "finale_framing_economy.mp3",
+    "sizeBytes": 121252,
+    "durationMs": 7578
+  },
+  "finale_framing_evasion": {
+    "file": "finale_framing_evasion.mp3",
+    "sizeBytes": 117490,
+    "durationMs": 7343
+  },
+  "finale_authorize_preamble": {
+    "file": "finale_authorize_preamble.mp3",
+    "sizeBytes": 135462,
+    "durationMs": 8466
+  },
+  "finale_authorize_ack": {
+    "file": "finale_authorize_ack.mp3",
+    "sizeBytes": 48527,
+    "durationMs": 3033
+  },
+  "finale_refuse_available": {
+    "file": "finale_refuse_available.mp3",
+    "sizeBytes": 62319,
+    "durationMs": 3895
+  },
+  "finale_refuse_ack": {
+    "file": "finale_refuse_ack.mp3",
+    "sizeBytes": 63991,
+    "durationMs": 3999
+  },
+  "finale_refuse_counter_intercept": {
+    "file": "finale_refuse_counter_intercept.mp3",
+    "sizeBytes": 90741,
+    "durationMs": 5671
+  },
+  "finale_refuse_counter_seed_line": {
+    "file": "finale_refuse_counter_seed_line.mp3",
+    "sizeBytes": 75276,
+    "durationMs": 4705
+  },
+  "finale_seed_discharge_ace1": {
+    "file": "finale_seed_discharge_ace1.mp3",
+    "sizeBytes": 35570,
+    "durationMs": 2223
+  },
+  "finale_seed_discharge_ace2": {
+    "file": "finale_seed_discharge_ace2.mp3",
+    "sizeBytes": 63991,
+    "durationMs": 3999
+  },
+  "finale_seed_wake_ace1": {
+    "file": "finale_seed_wake_ace1.mp3",
+    "sizeBytes": 79038,
+    "durationMs": 4940
+  },
+  "finale_seed_wake_ace2": {
+    "file": "finale_seed_wake_ace2.mp3",
+    "sizeBytes": 34316,
+    "durationMs": 2145
+  },
+  "d128_research_unlock": {
+    "file": "d128_research_unlock.mp3",
+    "sizeBytes": 86979,
+    "durationMs": 5436
+  },
+  "m3_briefing_close": {
+    "file": "m3_briefing_close.mp3",
+    "sizeBytes": 51035,
+    "durationMs": 3190
+  },
+  "lobby_greeting_first": {
+    "file": "lobby_greeting_first.mp3",
+    "sizeBytes": 95756,
+    "durationMs": 5985
+  },
+  "lobby_greeting_repeat": {
+    "file": "lobby_greeting_repeat.mp3",
+    "sizeBytes": 125431,
+    "durationMs": 7839
+  },
+  "praise_micro_1": {
+    "file": "praise_micro_1.mp3",
+    "sizeBytes": 28047,
+    "durationMs": 1753
+  },
+  "praise_micro_2": {
+    "file": "praise_micro_2.mp3",
+    "sizeBytes": 25539,
+    "durationMs": 1596
+  },
+  "praise_micro_3": {
+    "file": "praise_micro_3.mp3",
+    "sizeBytes": 25539,
+    "durationMs": 1596
+  },
+  "praise_micro_4": {
+    "file": "praise_micro_4.mp3",
+    "sizeBytes": 26793,
+    "durationMs": 1675
+  },
+  "praise_micro_5": {
+    "file": "praise_micro_5.mp3",
+    "sizeBytes": 20106,
+    "durationMs": 1257
+  },
+  "praise_short_1": {
+    "file": "praise_short_1.mp3",
+    "sizeBytes": 31808,
+    "durationMs": 1988
+  },
+  "praise_short_2": {
+    "file": "praise_short_2.mp3",
+    "sizeBytes": 44765,
+    "durationMs": 2798
+  },
+  "praise_short_3": {
+    "file": "praise_short_3.mp3",
+    "sizeBytes": 47273,
+    "durationMs": 2955
+  },
+  "praise_short_4": {
+    "file": "praise_short_4.mp3",
+    "sizeBytes": 59812,
+    "durationMs": 3738
+  },
+  "praise_short_5": {
+    "file": "praise_short_5.mp3",
+    "sizeBytes": 41839,
+    "durationMs": 2615
+  },
+  "praise_medium_1": {
+    "file": "praise_medium_1.mp3",
+    "sizeBytes": 71515,
+    "durationMs": 4470
+  },
+  "praise_medium_2": {
+    "file": "praise_medium_2.mp3",
+    "sizeBytes": 88233,
+    "durationMs": 5515
+  },
+  "praise_medium_3": {
+    "file": "praise_medium_3.mp3",
+    "sizeBytes": 85725,
+    "durationMs": 5358
+  },
+  "praise_medium_4": {
+    "file": "praise_medium_4.mp3",
+    "sizeBytes": 74022,
+    "durationMs": 4626
+  },
+  "praise_long_1": {
+    "file": "praise_long_1.mp3",
+    "sizeBytes": 127939,
+    "durationMs": 7996
+  },
+  "praise_long_2": {
+    "file": "praise_long_2.mp3",
+    "sizeBytes": 111221,
+    "durationMs": 6951
+  },
+  "praise_long_3": {
+    "file": "praise_long_3.mp3",
+    "sizeBytes": 104951,
+    "durationMs": 6559
+  },
+  "weapons_offline": {
+    "file": "weapons_offline.mp3",
+    "sizeBytes": 219890,
+    "durationMs": 13743
+  },
+  "lobby_greeting_resume": {
+    "file": "lobby_greeting_resume.mp3",
+    "sizeBytes": 136716,
+    "durationMs": 8545
+  },
+  "tutorial_build_squadron": {
+    "file": "tutorial_build_squadron.mp3",
+    "sizeBytes": 149673,
+    "durationMs": 9355
+  },
+  "ambient_shield_supercharge": {
+    "file": "ambient_shield_supercharge.mp3",
+    "sizeBytes": 182692,
+    "durationMs": 11418
+  },
+  "boot_adrift": {
+    "file": "boot_adrift.mp3",
+    "sizeBytes": 182692,
+    "durationMs": 11418
+  },
+  "boot_power_restored": {
+    "file": "boot_power_restored.mp3",
+    "sizeBytes": 104951,
+    "durationMs": 6559
+  },
+  "boot_engines": {
+    "file": "boot_engines.mp3",
+    "sizeBytes": 108713,
+    "durationMs": 6795
+  },
+  "boot_shields": {
+    "file": "boot_shields.mp3",
+    "sizeBytes": 145911,
+    "durationMs": 9119
+  },
+  "boot_weapons": {
+    "file": "boot_weapons.mp3",
+    "sizeBytes": 109967,
+    "durationMs": 6873
+  },
+  "boot_argus_first_sweep": {
+    "file": "boot_argus_first_sweep.mp3",
+    "sizeBytes": 100772,
+    "durationMs": 6298
+  },
+  "boot_argus_second_sweep": {
+    "file": "boot_argus_second_sweep.mp3",
+    "sizeBytes": 172661,
+    "durationMs": 10791
+  },
+  "crash_course": {
+    "file": "crash_course.mp3",
+    "sizeBytes": 312259,
+    "durationMs": 19516
+  },
+  "briefing_authorize_thesis": {
+    "file": "briefing_authorize_thesis.mp3",
+    "sizeBytes": 48527,
+    "durationMs": 3033
+  },
+  "boot_skip_condensed": {
+    "file": "boot_skip_condensed.mp3",
+    "sizeBytes": 41839,
+    "durationMs": 2615
+  },
+  "m1-head-to-base": {
+    "file": "m1-head-to-base.mp3",
+    "sizeBytes": 57304,
+    "durationMs": 3582
+  },
+  "boot_ambush": {
+    "file": "boot_ambush.mp3",
+    "sizeBytes": 102026,
+    "durationMs": 6377
+  }
+}

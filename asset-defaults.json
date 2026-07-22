@@ -1,0 +1,246 @@
+{
+  "globalVolume": 0.5,
+  "warpSoundVolume": 0.5,
+  "warpAnimationSpeed": 1,
+  "shieldEffectSpeed": 1,
+  "missileEffectSpeed": 1,
+  "animations": {
+    "warp-in": {
+      "id": "warp-in",
+      "name": "Warp In Sequence",
+      "effectId": "warp-effect",
+      "soundId": "warp-sound",
+      "soundFile": "/warp_in.mp3",
+      "effectDuration": 5400,
+      "soundOffset": 0,
+      "effectOffset": 459,
+      "volume": 0.5,
+      "speed": 1
+    },
+    "missile-launch": {
+      "id": "missile-launch",
+      "name": "Missile Launch",
+      "effectId": "missile-trail",
+      "soundId": "missile-sound",
+      "soundFile": "/missile_launch.mp3",
+      "effectDuration": 1500,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.6,
+      "speed": 1
+    },
+    "torpedo-fire": {
+      "id": "torpedo-fire",
+      "name": "Torpedo Fire",
+      "effectId": "missile-trail",
+      "soundId": "torpedo-sound",
+      "soundFile": "/torpedo.mp3",
+      "effectDuration": 1000,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.6,
+      "speed": 1
+    },
+    "fighter-pulse": {
+      "id": "fighter-pulse",
+      "name": "Fighter Mini Pulse",
+      "effectId": "pulse-laser",
+      "soundId": "pulse-sound",
+      "soundFile": "/fighter_mini_pulse.mp3",
+      "effectDuration": 300,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.5,
+      "speed": 1
+    },
+    "capital-explosion": {
+      "id": "capital-explosion",
+      "name": "Capital Ship Explosion",
+      "effectId": "explosion-large",
+      "soundId": null,
+      "soundFile": null,
+      "effectDuration": 3000,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.8,
+      "speed": 1
+    },
+    "fighter-explosion": {
+      "id": "fighter-explosion",
+      "name": "Fighter Explosion",
+      "effectId": "explosion-small",
+      "soundId": null,
+      "soundFile": null,
+      "effectDuration": 1200,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.5,
+      "speed": 1
+    },
+    "flak-burst": {
+      "id": "flak-burst",
+      "name": "Flak Burst",
+      "effectId": "flak-explosion",
+      "soundId": "flak-sound",
+      "soundFile": "/flak_gun.mp3",
+      "effectDuration": 400,
+      "soundOffset": 0,
+      "effectOffset": 0,
+      "volume": 0.4,
+      "speed": 1,
+      "particleCount": 20,
+      "particleSpeed": 3,
+      "particleLife": 0.8
+    }
+  },
+  "sounds": {
+    "warp-sound": {
+      "id": "warp-sound",
+      "file": "/warp_in.mp3",
+      "volume": 0.5,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "missile-sound": {
+      "id": "missile-sound",
+      "file": "/missile_launch.mp3",
+      "volume": 0.6,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "torpedo-sound": {
+      "id": "torpedo-sound",
+      "file": "/torpedo.mp3",
+      "volume": 0.6,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "pulse-sound": {
+      "id": "pulse-sound",
+      "file": "/fighter_mini_pulse.mp3",
+      "volume": 0.5,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "flak-sound": {
+      "id": "flak-sound",
+      "file": "/flak_gun.mp3",
+      "volume": 0.4,
+      "clipStart": 1.0901284744113073,
+      "clipEnd": 3.2
+    },
+    "background-engine": {
+      "id": "background-engine",
+      "file": "/background-engine.mp3",
+      "volume": 0.3,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "argus-sweep": {
+      "id": "argus-sweep",
+      "file": "/ARGUS-sweep.mp3",
+      "volume": 0.3,
+      "clipStart": 0,
+      "clipEnd": null
+    },
+    "argus-target": {
+      "id": "argus-target",
+      "file": "/ARGUS-target.mp3",
+      "volume": 1,
+      "clipStart": 0,
+      "clipEnd": null
+    }
+  },
+  "effects": {
+    "warp-effect": {
+      "id": "warp-effect",
+      "type": "warp-ring",
+      "speed": 1,
+      "color": "#00d4ff",
+      "intensity": 1
+    },
+    "missile-trail": {
+      "id": "missile-trail",
+      "type": "particle-trail",
+      "speed": 1,
+      "color": "#ff6600",
+      "particleCount": 15,
+      "particleLife": 1.2
+    },
+    "pulse-laser": {
+      "id": "pulse-laser",
+      "type": "laser-beam",
+      "speed": 1,
+      "color": "#00ff88",
+      "width": 2,
+      "length": 150,
+      "fadeTime": 0.15
+    },
+    "flak-explosion": {
+      "id": "flak-explosion",
+      "type": "particle-burst",
+      "speed": 1,
+      "color": "#ffaa00",
+      "particleCount": 20,
+      "particleSpeed": 3,
+      "particleLife": 0.8
+    },
+    "shield-bubble": {
+      "id": "shield-bubble",
+      "type": "shield-flash",
+      "speed": 1,
+      "color": "#00aaff",
+      "intensity": 0.8,
+      "fadeTime": 0.3,
+      "pulseFrequency": 2
+    },
+    "engine-thruster": {
+      "id": "engine-thruster",
+      "type": "particle-stream",
+      "speed": 1,
+      "color": "#0088ff",
+      "particleCount": 10,
+      "particleSpeed": 8,
+      "particleLife": 0.6,
+      "spread": 15
+    },
+    "laser-beam-main": {
+      "id": "laser-beam-main",
+      "type": "laser-beam",
+      "speed": 1,
+      "color": "#ff0000",
+      "width": 4,
+      "length": 300,
+      "fadeTime": 0.2
+    },
+    "laser-beam-pd": {
+      "id": "laser-beam-pd",
+      "type": "laser-beam",
+      "speed": 1,
+      "color": "#ff8800",
+      "width": 2,
+      "length": 200,
+      "fadeTime": 0.15
+    },
+    "multi-stage-explosion": {
+      "id": "multi-stage-explosion",
+      "type": "explosion-sprite",
+      "speed": 1,
+      "color": "#ffffff",
+      "spriteSheet": "/explosion_sheet.png",
+      "frameCount": 16,
+      "frameDuration": 60
+    },
+    "small-explosion": {
+      "id": "small-explosion",
+      "type": "explosion-sprite",
+      "speed": 1,
+      "color": "#ffffff",
+      "spriteSheet": "/explosion_sheet.png",
+      "frameCount": 12,
+      "frameDuration": 50
+    }
+  },
+  "sprites": {},
+  "hudLayouts": {}
+}
